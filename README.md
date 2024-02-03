@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Swarrna
 - 👀 I’m interested in Mathematical Modelling and Computing using R and Python
-- 🌱 I’m currently learning Bsc.Mathemaics in MOP vaishnav college for women (2nd year)
+- 🌱 I did my undergraduate in Bsc.Mathemaics in MOP vaishnav college for women
+- I am currently pursuing my Postgraduation in Msc Data Science
 - 💞️ I’m looking to collaborate on areas related to Mathematical Modelling ,Data Science and computing
 - 📫 How to reach me Email : 1947swana@gmail.com
 
